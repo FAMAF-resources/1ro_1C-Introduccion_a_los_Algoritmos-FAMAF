@@ -19,6 +19,7 @@
 ## Es correlativa de:
 
 - Algoritmos y Estructuras de Datos I
+
 ## Clonar el repositorio
 
 **https**
