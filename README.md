@@ -4,15 +4,24 @@
 
 > 1C
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- Ingreso
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Ingreso | Regularizada |
 
-Es correlativa de:
+## Correlativas para **aprobar**
 
-- Ingreso
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Ingreso | Aprobada     |
 
+## Es correlativa de:
+
+- Algoritmos y Estructuras de Datos I
 ## Clonar el repositorio
+
+**https**
 
 ```bash
 git clone https://github.com/FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF.git
@@ -20,15 +29,31 @@ git clone https://github.com/FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmo
 
 o
 
+**ssh (recomendado)**
+
 ```bash
 git clone git@github.com:FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF.git
 ```
 
-# Contribuciones
+## Update
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) comunicarse con los administradores.
+```bash
+git pull && git submodule update --init --recursive
+```
+
+# ¿Cómo contribuir?
+
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
+
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
+
+# Nuestra comunidad
+
+[Sobre nosotros](https://github.com/FAMAF-resources/.github/tree/main/profile/README.md)
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF"/>
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/1ro_1C-Introduccion_a_los_Algoritmos-FAMAF" height="50"/>
 </a>
